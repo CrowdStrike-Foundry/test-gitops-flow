@@ -1,0 +1,30 @@
+app_id: 9a24f4862a7d4f92b5a54c5022c89783
+name: Test GItOps Flow
+description: ""
+logo: ""
+manifest_version: ""
+ignored: []
+ui:
+    homepage: ""
+    extensions: []
+    pages: {}
+    dashboards: {}
+    navigation: {}
+api_integrations: []
+rtr_scripts: []
+collections:
+    - name: test_collection
+      description: ""
+      schema: collections/test_collection.json
+      permissions: []
+      workflow_integration: null
+auth:
+    scopes: []
+    permissions: {}
+    roles: []
+functions: []
+workflows: []
+parsers: []
+logscale:
+    saved_searches: []
+lookup_files: []
